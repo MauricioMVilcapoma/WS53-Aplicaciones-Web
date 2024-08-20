@@ -168,6 +168,10 @@ A pesar de la creciente demanda de eventos y experiencias sociales, la industria
 
 
 
+#### 1.2.2.3. Lean UX Hypothesis Statements
+
+
+
 ### 1.3. Segmentos Objetivo
 
 **Descripción de los Segmentos:**
