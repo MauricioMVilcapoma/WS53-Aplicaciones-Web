@@ -18,7 +18,7 @@
 - **Guzman Chavez Alexander Ramiro** - u202217062  
 -   
 - **Muñoz Vilcapoma Mauricio Rigoberto** - u202217212  
-- *
+- **Fabian Puente Ronaldo Macedonio** - U20201B193
 - 
 
 **Fecha:** Agosto 2024
