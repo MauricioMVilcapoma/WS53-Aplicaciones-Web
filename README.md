@@ -19,7 +19,7 @@
 - **Nanfuñay Liza Pedro Jesús** - u202215462  
 - **Muñoz Vilcapoma Mauricio Rigoberto** - u202217212  
 - **Fabian Puente Ronaldo Macedonio** - U20201B193
-- 
+- **Salon Puerta Merly** - u20201b772
 
 **Fecha:** Agosto 2024
 
