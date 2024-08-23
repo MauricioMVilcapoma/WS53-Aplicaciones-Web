@@ -159,7 +159,7 @@ A pesar de la creciente demanda de eventos y experiencias sociales, la industria
 
 #### 1.2.2.1. Lean UX Problem Statements
 
-1. **Domain:**
+1. **Domain:**  
    La gestión y organización de eventos en entornos sociales como discotecas, festivales, conciertos y conferencias.
 
 2. **Customer Segments:**  
