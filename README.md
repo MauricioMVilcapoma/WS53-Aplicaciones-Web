@@ -174,6 +174,12 @@ A pesar de la creciente demanda de eventos y experiencias sociales, la industria
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
+1. Si incorporamos una función en Eventify que permita a los organizadores coordinar y gestionar a los asistentes en tiempo real, la satisfacción de los organizadores con la herramienta aumentará en un 60% en comparación con las herramientas actuales para la gestión de eventos.
+2. Si habilitamos una función de compartición de ubicación en tiempo real en Eventify, se incrementará en un 15% el número de interacciones entre los asistentes durante los eventos, y estos experimentarán un aumento en su satisfacción con la experiencia social.
+3. Si lanzamos Eventify con sus funcionalidades innovadoras para la gestión de eventos, conseguiremos atraer un 25% más de usuarios en el mercado objetivo en comparación con nuestros competidores, y recibiremos al menos un 40% más de consultas y solicitudes de demostración del producto en los primeros seis meses.
+4. Si ofrecemos una política clara y transparente respecto a la seguridad, privacidad y uso de la información de ubicación en Eventify, al menos el 70% de los asistentes estarán dispuestos a compartir su ubicación en tiempo real durante los eventos, se sentirán seguros al hacerlo, y la tasa de adopción de esta función será alta.
+5. Si proporcionamos un período de prueba gratuito y sesiones de capacitación para Eventify, tanto los organizadores como los asistentes adoptarán la plataforma al menos un 50% más rápido que las herramientas tradicionales de gestión de eventos y percibirán un aumento en el valor y la eficiencia de la herramienta.
+
 
 
 ### 1.3. Segmentos Objetivo
