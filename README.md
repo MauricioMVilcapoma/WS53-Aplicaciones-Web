@@ -168,10 +168,6 @@ A pesar de la creciente demanda de eventos y experiencias sociales, la industria
 4. Los asistentes estarán dispuestos a compartir su ubicación en tiempo real durante los eventos, confiando en que la información se utilizará de manera segura y beneficiosa.
 5. Tanto los organizadores como los asistentes adoptarán rápidamente Eventify, reconociendo que la plataforma ofrece mejoras significativas respecto a las herramientas tradicionales de gestión de eventos.
 
-#### 1.2.2.4. Lean UX Canvas
-
-![Lean UX Canvas - Paginas Web](https://hackmd.io/_uploads/rk5vFH8jA.png)
-
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
 1. Si incorporamos una función en Eventify que permita a los organizadores coordinar y gestionar a los asistentes en tiempo real, la satisfacción de los organizadores con la herramienta aumentará en un 60% en comparación con las herramientas actuales para la gestión de eventos.
@@ -180,7 +176,9 @@ A pesar de la creciente demanda de eventos y experiencias sociales, la industria
 4. Si ofrecemos una política clara y transparente respecto a la seguridad, privacidad y uso de la información de ubicación en Eventify, al menos el 70% de los asistentes estarán dispuestos a compartir su ubicación en tiempo real durante los eventos, se sentirán seguros al hacerlo, y la tasa de adopción de esta función será alta.
 5. Si proporcionamos un período de prueba gratuito y sesiones de capacitación para Eventify, tanto los organizadores como los asistentes adoptarán la plataforma al menos un 50% más rápido que las herramientas tradicionales de gestión de eventos y percibirán un aumento en el valor y la eficiencia de la herramienta.
 
+#### 1.2.2.4. Lean UX Canvas
 
+![Lean UX Canvas - Paginas Web](https://hackmd.io/_uploads/rk5vFH8jA.png)
 
 ### 1.3. Segmentos Objetivo
 
