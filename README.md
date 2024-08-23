@@ -170,7 +170,7 @@ A pesar de la creciente demanda de eventos y experiencias sociales, la industria
 
 #### 1.2.2.4. Lean UX Canvas
 
-
+![Lean UX Canvas - Paginas Web](https://hackmd.io/_uploads/rk5vFH8jA.png)
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
