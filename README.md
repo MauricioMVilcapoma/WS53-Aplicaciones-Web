@@ -67,7 +67,7 @@
         - [Pain Points](#pain-points)
         - [Gap](#gap)
         - [Vision/Strategy](#visionstrategy)
-        - [Initial Segment](#initial-segment)
+        - [Initial Segment](#initial-segment)<br>
         1.2.2.2. [Lean UX Assumptions](#1222-lean-ux-assumptions)<br>
         1.2.2.3. [Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)<br>
         1.2.2.4. [Lean UX Canvas](#1224-lean-ux-canvas)<br>
@@ -162,8 +162,11 @@ A pesar de la creciente demanda de eventos y experiencias sociales, la industria
 
 
 #### 1.2.2.2. Lean UX Assumptions
-
-
+1. Los organizadores de eventos necesitan herramientas que faciliten la coordinación y gestión de los asistentes en tiempo real
+2. Los asistentes a eventos buscan formas de interactuar más fácilmente con otros participantes, y la compartición de ubicación en tiempo real facilitará estas interacciones.
+3. Existe una demanda significativa en el mercado de eventos por soluciones tecnológicas que mejoren la organización y la experiencia del usuario, y Eventify puede satisfacer esta demanda con sus características únicas.
+4. Los asistentes estarán dispuestos a compartir su ubicación en tiempo real durante los eventos, confiando en que la información se utilizará de manera segura y beneficiosa.
+5. Tanto los organizadores como los asistentes adoptarán rápidamente Eventify, reconociendo que la plataforma ofrece mejoras significativas respecto a las herramientas tradicionales de gestión de eventos.
 
 #### 1.2.2.4. Lean UX Canvas
 
