@@ -159,6 +159,32 @@ A pesar de la creciente demanda de eventos y experiencias sociales, la industria
 
 #### 1.2.2.1. Lean UX Problem Statements
 
+1. **Domain:**
+   La gestión y organización de eventos en entornos sociales como discotecas, festivales, conciertos y conferencias.
+
+2. **Customer Segments:**  
+   - Organizadores de eventos: Empresas y particulares que planifican y gestionan eventos y buscan optimizar procesos y mejorar la experiencia del usuario.
+   - Asistentes a eventos: Jóvenes adultos entre 18 y 35 años que buscan experiencias interactivas y personalizadas en eventos sociales.
+
+3. **Pain Points:**  
+   - Para los organizadores de eventos:
+     - Falta de una herramienta integrada que facilite la venta de entradas, la promoción, y la gestión logística de los eventos.
+     - Dificultad para coordinar y gestionar la seguridad y la logística durante los eventos en tiempo real.
+     - Necesidad de mejorar la experiencia del usuario para incrementar la satisfacción y la lealtad de los asistentes.
+
+   - Para los asistentes a eventos:
+     - Ausencia de una plataforma que facilite la interacción social, como la compartición de ubicaciones y la comunicación en tiempo real.
+     - Falta de personalización en la experiencia del evento, lo que reduce la satisfacción general.
+     - Preocupaciones sobre la privacidad y la seguridad de los datos personales, especialmente en la función de compartición de ubicación.
+
+4. **Gap:**  
+   No existe en el mercado una solución integral que combine de manera efectiva la gestión de eventos y la mejora de la experiencia del usuario, dejando a los organizadores y asistentes sin herramientas adecuadas para satisfacer sus necesidades.
+
+5. **Vision/Strategy:**  
+   Desarrollar Eventify, una plataforma digital integral que centralice todas las actividades relacionadas con la gestión de eventos y ofrezca herramientas innovadoras para mejorar la experiencia de los usuarios. Esto incluye la venta de entradas, la logística, la interacción social y la comunicación en tiempo real, todo con un enfoque en la seguridad y la eficiencia.
+
+6. **Initial Segment:**  
+   Lanzamiento dirigido a discotecas y festivales que necesitan soluciones tecnológicas avanzadas para la gestión de eventos y que valoran la interacción social y la experiencia personalizada para sus asistentes.
 
 
 #### 1.2.2.2. Lean UX Assumptions
