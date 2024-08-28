@@ -1,5 +1,7 @@
 # Universidad Peruana de Ciencias Aplicadas
-
+<div style="text-align: center;">
+  <img src="https://hackmd.io/_uploads/Sy8JwfTj0.png" alt="Logo upc" width="200"/>
+</div>
 **Carrera:** Ingeniería de Software  
 **Ciclo:** 
 
