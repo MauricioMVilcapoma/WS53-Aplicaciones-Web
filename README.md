@@ -1,5 +1,5 @@
 # Universidad Peruana de Ciencias Aplicadas
-SEGUNDA PRUEBA
+TERCERA PRUEBA
 **Carrera:** Ingeniería de Software  
 **Ciclo:** 
 
