@@ -186,7 +186,7 @@ del ABET – EAC - Student Outcome 5.
 
 # Capítulo I: Introducción
 
-## Startup Profile: NetVision
+## Startup Profile
 
 ### Descripción de la Startup
 
