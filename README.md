@@ -186,13 +186,13 @@ del ABET – EAC - Student Outcome 5.
 
 # Capítulo I: Introducción
 
-## 1.1. Startup Profile: NetVision
+## Startup Profile: NetVision
 
-### 1.1.1. Descripción de la Startup
+### Descripción de la Startup
 
 NetVision es una startup innovadora enfocada en desarrollar soluciones tecnológicas que faciliten la organización, gestión y comercialización de eventos. Nuestra misión es crear herramientas que optimicen la experiencia tanto para organizadores como para asistentes, haciendo uso de tecnologías avanzadas para simplificar procesos y mejorar la interacción entre los participantes. Con Eventify, buscamos transformar la manera en que se crean y disfrutan los eventos, ofreciendo funcionalidades únicas como la compartición de ubicación entre asistentes y notificaciones en tiempo real cuando estos llegan al evento.
 
-### 1.1.2. Perfiles de Integrantes del Equipo
+### Perfiles de Integrantes del Equipo
 
 **Muñoz Vilcapoma Mauricio – Ingeniería de Software – U202217212**  
 Soy estudiante de Ingeniería de Software en mi quinto ciclo. Deseo desempeñar un papel fundamental en el mundo de la tecnología, creando soluciones innovadoras y avanzadas como desarrollador de software. Estoy comprometido con mi desarrollo profesional y con hacer una diferencia en el campo de la ingeniería de software.
